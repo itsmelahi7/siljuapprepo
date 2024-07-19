@@ -1,0 +1,206 @@
+[
+    {
+        "type": "tags_index",
+        "data": [
+            {
+                "name": "[[history]]",
+                "children": [
+                    [
+                        {
+                            "name": "[[modern history]]",
+                            "children": [
+                                [
+                                    {
+                                        "name": "[[governor general]]",
+                                        "children": []
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "[[polity]]",
+                "children": [
+                    [
+                        {
+                            "name": "[[constitution]]",
+                            "children": [
+                                [
+                                    {
+                                        "name": "[[amendment]]",
+                                        "children": []
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[constitution assembly]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[preamble]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[states and its territories]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[citizenship]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[Fundamental Rights]]",
+                            "children": []
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "Miscellaneous",
+                "children": [
+                    [
+                        {
+                            "name": "[[book]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[person]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[date]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[religion]]",
+                            "children": []
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "",
+                "children": []
+            }
+        ]
+    },
+    {
+        "type": "tags_index",
+        "data": [
+            {
+                "name": "[[history]]",
+                "children": [
+                    [
+                        {
+                            "name": "[[modern history]]",
+                            "children": [
+                                [
+                                    {
+                                        "name": "[[governor general]]",
+                                        "children": []
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "[[polity]]",
+                "children": [
+                    [
+                        {
+                            "name": "[[constitution]]",
+                            "children": [
+                                [
+                                    {
+                                        "name": "[[amendment]]",
+                                        "children": []
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[constitution assembly]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[preamble]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[states and its territories]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[citizenship]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[Fundamental Rights]]",
+                            "children": []
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "Miscellaneous",
+                "children": [
+                    [
+                        {
+                            "name": "[[book]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[person]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[date]]",
+                            "children": []
+                        }
+                    ],
+                    [
+                        {
+                            "name": "[[religion]]",
+                            "children": []
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+]
